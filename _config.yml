@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Cloud & Digital"
 title_separator          : "-"
-name                     : &name "Michael Rose"
+name                     : &name "Cloud & Digital"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://cloudndigital.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   bio              : "Just another boring, tattooed, time traveling, designer."
   location         : "Buffalo, NY"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "https://cloudndigital.com"
   bitbucket        :
   codepen          :
   dribbble         :
