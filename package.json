@@ -1,10 +1,10 @@
 {
-  "name": "minimal-mistakes",
+  "name": "home",
   "version": "3.4.8",
   "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cloudndigital/minimal-mistakes.git"
+    "url": "git://github.com/cloudndigital/home.git"
   },
   "keywords": [
     "jekyll",
@@ -14,9 +14,9 @@
   "author": "Michael Rose",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cloudndigital/minimal-mistakes/issues"
+    "url": "https://github.com/cloudndigital/home/issues"
   },
-  "homepage": "https://cloudndigital.github.io/minimal-mistakes/",
+  "homepage": "https://cloudndigital.github.io/home/",
   "engines": {
     "node": ">= 0.10.0"
   },
