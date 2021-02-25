@@ -10,19 +10,19 @@ header:
 excerpt: 'We are a technology-driven startup which is working on cloud native and block chain technology development to accelerate digital transformation. <br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v0.5.1</a></small><br /><br /> '
 feature_row:
   - image_path: mm-customizable-feature.png
-    alt: "customizable"
+    alt: "cloudnative"
     title: "Cloud Native"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
+    alt: "blockchain"
     title: "Block Chain"
     excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
-    alt: "100% free"
+    alt: "digitaltransformation"
     title: "Digital Transformation"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
