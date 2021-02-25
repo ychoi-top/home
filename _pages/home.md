@@ -9,13 +9,13 @@ header:
   caption:
 excerpt: 'We are a technology-driven startup which is working on cloud native and block chain technology development to accelerate digital transformation. <br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v0.5.1</a></small><br /><br /> '
 feature_row:
-  - image_path: mm-customizable-feature.png
+  - image_path: mm-responsive-feature.png 
     alt: "cloudnative"
     title: "Cloud Native"
     excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
     url: "https://cncf.io"
-    btn_label: "Learn More CNCF"
-  - image_path: mm-responsive-feature.png
+    btn_label: "Learn More"
+  - image_path: mm-customizable-feature.png
     alt: "blockchain"
     title: "Block Chain"
     excerpt: "Blockchain is a shared, immutable ledger for recording transactions, tracking assets and building trust."
