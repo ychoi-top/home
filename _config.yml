@@ -81,20 +81,20 @@ analytics:
 author:
   name             : *name
   avatar           : "cnd-logo-160x160.jpg"
-  bio              : "cloud native, block chain, digital transformation"
-  location         : "Buffalo, NY"
+  bio              : "cloud native, block chain, and digital transformation"
+  location         : "Seoul, South Korea"
   email            :
   uri              : "https://cloudndigital.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : 
   foursquare       :
   github           : "cloudndigital"
   google_plus      :
   keybase          :
-  instagram        : "cloudndigital"
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
