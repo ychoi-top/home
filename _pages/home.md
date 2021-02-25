@@ -13,19 +13,19 @@ feature_row:
     alt: "cloudnative"
     title: "Cloud Native"
     excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
-    url: "https://www.turple.io/"
+    url: "https:/cncf.io"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "blockchain"
     title: "Block Chain"
     excerpt: "Blockchain is a shared, immutable ledger for recording transactions, tracking assets and building trust."
-    url: "/docs/layouts/"
+    url: "https://en.wikipedia.org/wiki/Blockchain"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "digitaltransformation"
     title: "Digital Transformation"
     excerpt: "Digital transformation is the integration of digital technology into all areas of a business, fundamentally changing how you operate and deliver value to customers."
-    url: "/docs/license/"
+    url: "https://www.turple.io/"
     btn_label: "Learn More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
