@@ -18,7 +18,7 @@ feature_row:
   - image_path: mm-responsive-feature.png
     alt: "blockchain"
     title: "Block Chain"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Blockchain is a shared, immutable ledger for recording transactions, tracking assets and building trust."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
