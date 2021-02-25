@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "cnd-logo.png"
+  avatar           : "cnd-logo-160x160.jpg"
   bio              : "cloud native, block chain, digital transformation"
   location         : "Buffalo, NY"
   email            :
