@@ -13,8 +13,8 @@ feature_row:
     alt: "cloudnative"
     title: "Cloud Native"
     excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
-    url: "https:/cncf.io"
-    btn_label: "Learn More"
+    url: "https://cncf.io"
+    btn_label: "Learn More CNCF"
   - image_path: mm-responsive-feature.png
     alt: "blockchain"
     title: "Block Chain"
