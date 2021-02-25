@@ -24,7 +24,7 @@ feature_row:
   - image_path: mm-free-feature.png
     alt: "digitaltransformation"
     title: "Digital Transformation"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    excerpt: "Digital transformation is the integration of digital technology into all areas of a business, fundamentally changing how you operate and deliver value to customers."
     url: "/docs/license/"
     btn_label: "Learn More"
 github:
