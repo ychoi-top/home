@@ -7,13 +7,13 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "https://guide.turple.io/"
   caption:
-excerpt: 'We are a technology-driven startup which is working on cloud native and block chain technology development to accelerate digital transformation. <br /> <small><a href="https://turple.io/#/contents/blog/5f720455e410a0001cad9733">Latest release v0.5.1</a></small><br /><br /> '
+excerpt: 'We are a technology-driven startup which is working on cloud native and block chain technology development to accelerate digital transformation. <br /> <small><a href="https://turple.io/#/contents/blog/5f720455e410a0001cad9733">Latest release on UK G-Cloud</a></small><br /><br /> '
 feature_row:
   - image_path: mm-responsive-feature.png 
     alt: "cloudnative"
     title: "Cloud Native"
     excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
-    url: "https://cncf.io"
+    url: "https://landscape.cncf.io"
     btn_label: "Learn More"
   - image_path: mm-customizable-feature.png
     alt: "blockchain"
