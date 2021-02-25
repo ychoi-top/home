@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: gg-container-image.jpg
   cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
+  cta_url: "https://www.turple.io/"
   caption:
 excerpt: 'We are a technology-driven startup which is working on cloud native and block chain technology development to accelerate digital transformation. <br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v0.5.1</a></small><br /><br /> '
 feature_row:
