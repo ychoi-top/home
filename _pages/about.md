@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Cloud & Digital"
+title: "About"
 excerpt: "Cloud Native, Block Chain, and Digital Transformation"
 layouts_gallery:
   - url: mm-layout-splash.png
