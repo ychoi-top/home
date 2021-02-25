@@ -13,7 +13,7 @@ feature_row:
     alt: "cloudnative"
     title: "Cloud Native"
     excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
-    url: "/docs/configuration/"
+    url: "https://www.turple.io/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "blockchain"
