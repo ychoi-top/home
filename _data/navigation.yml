@@ -21,11 +21,6 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-
-  - title: "About"
-    url: /about/
 
   - title: "Solutions"
     url: /year-archive/
@@ -35,6 +30,9 @@ main:
 
   - title: "Blogs"
     url: /terms/
+    
+  - title: "About US"
+    url: /about/
 
 
 # documentation links
