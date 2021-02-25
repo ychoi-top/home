@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
+  avatar           : "cnd-logo.png"
+  bio              : "cloud native, block chain, digital transformation"
   location         : "Buffalo, NY"
   email            :
   uri              : "https://cloudndigital.com"
