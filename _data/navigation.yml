@@ -23,10 +23,10 @@ foo:
 main:
 
   - title: "Solutions"
-    url: /terms/
+    url: /collection-archive/
 
   - title: "Industries"
-    url: /collection-archive/
+    url: /terms/
 
   - title: "Blogs"
     url: /year-archive/
