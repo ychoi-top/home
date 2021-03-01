@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000000"
   overlay_image: gg-container-image.jpg
   cta_label: "<i class='fa fa-download'></i> View Our Projects"
   cta_url: "https://turple.io"
