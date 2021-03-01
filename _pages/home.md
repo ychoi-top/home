@@ -4,16 +4,16 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: gg-container-image.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "https://landscape.cncf.io"
+  cta_label: "<i class='fa fa-download'></i> View Our Projects"
+  cta_url: "https://turple.io"
   caption:
-excerpt: 'Cloud & Digital is a technology-driven startup to streamline and accelerate digital transformation. We are a team of diverse experience and expertise, especially in Cloud Native, Block Chain, and Open API technologies.<br /> <small><a href="https://turple.io/#/contents/blog/5f720455e410a0001cad9733">Latest release on UK G-Cloud</a></small><br /><br /> '
+excerpt: 'Unleash your digital transformation, save time, lower operational expense, and accelerate your growth. <br /> <small><a href="https://turple.io/#/contents/blog/5f720455e410a0001cad9733">Latest release on UK G-Cloud</a></small><br /><br /> '
 feature_row:
   - image_path: mm-responsive-feature.png 
     alt: "cloudnative"
     title: "Cloud Native"
     excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
-    url: "https://cncf.io"
+    url: "https://landscape.cncf.io"
     btn_label: "Learn More"
   - image_path: mm-customizable-feature.png
     alt: "blockchain"
