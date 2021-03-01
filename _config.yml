@@ -178,6 +178,15 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  solutions:
+    output: true
+    permalink: /:collection/:path/
+  industries:
+    output: true
+    permalink: /:collection/:path/
+  blogs:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
