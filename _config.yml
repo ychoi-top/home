@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cloud & Digital"
+title                    : "Unleash Digital Transformation"
 title_separator          : "-"
-name                     : &name "Unleash Digital Transformation"
+name                     : &name "Cloud & Digital"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://cloudndigital.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
