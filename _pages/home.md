@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "https://landscape.cncf.io"
   caption:
-excerpt: 'We are a technology-driven startup which is working on cloud native, block chain, and Open API technology development to accelerate digital transformation. <br /> <small><a href="https://turple.io/#/contents/blog/5f720455e410a0001cad9733">Latest release on UK G-Cloud</a></small><br /><br /> '
+excerpt: 'We are a technology-driven startup which streamlines digital transformation complexity with cloud native, block chain, and Open API technologies. <br /> <small><a href="https://turple.io/#/contents/blog/5f720455e410a0001cad9733">Latest release on UK G-Cloud</a></small><br /><br /> '
 feature_row:
   - image_path: mm-responsive-feature.png 
     alt: "cloudnative"
