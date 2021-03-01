@@ -81,7 +81,7 @@ analytics:
 author:
   name             : *name
   avatar           : "cnd-logo-160x160.jpg"
-  bio              : "cloud native, block chain, oepn api, and digital transformation"
+  bio              : "cloud native, block chain, open api, and digital transformation"
   location         : "Seoul, South Korea"
   email            :
   uri              : "https://cloudndigital.com"
