@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: gg-container-image.jpg
   cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "https://guide.turple.io/"
+  cta_url: "https://landscape.cncf.io"
   caption:
 excerpt: 'We are a technology-driven startup which is working on cloud native, block chain, and Open API technology development to accelerate digital transformation. <br /> <small><a href="https://turple.io/#/contents/blog/5f720455e410a0001cad9733">Latest release on UK G-Cloud</a></small><br /><br /> '
 feature_row:
@@ -13,7 +13,7 @@ feature_row:
     alt: "cloudnative"
     title: "Cloud Native"
     excerpt: "Cloud native is the architecture for assembling all of the cloud-based components in a way that is optimized for the cloud environment."
-    url: "https://landscape.cncf.io"
+    url: "https://cncf.io"
     btn_label: "Learn More"
   - image_path: mm-customizable-feature.png
     alt: "blockchain"
