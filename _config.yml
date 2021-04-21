@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cloud & Digital"
+title                    : "ATOP CLOUD"
 title_separator          : "-"
-name                     : &name "Cloud N Digital"
+name                     : &name "ATOP CLOUD"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://cloudndigital.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
