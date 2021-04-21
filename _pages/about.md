@@ -17,7 +17,7 @@ modified: 2021-02-25
 
 {% include base_path %}
 
-Cloud & Digital is a technology-driven startup which is working on cloud native, block chain, and Open API technology development to streamline and accelerate digital transformation.  
+ATOP CLOUD, also known as Cloud & Digital, is a technology-driven startup which is working on cloud native, block chain, and Open API technology development to streamline and accelerate digital transformation.  
 
 We are a team of diverse experience and expertise from multinational corporations, large enterprises as well as startups in a variety of industries. We are focused of building a powerful workforce with high-performance colleagues. 
 
